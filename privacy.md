@@ -7,7 +7,7 @@
 27 kwietnia 2016 weszło w życie Ogólne Rozporządzenie o Ochronie Danych Osobowych – czyli RODO. W związku z tym muszę poinformować Cię o kilku rzeczach.
 
 1. Administratorem Twoich danych osobowych będę ja — Adrian Czerniak, zamieszkały w
-   Warszawie przy ulicy tu wpisz ulicę. Możecie się ze mną skontaktować pod adresem email: kic4jec@gmail.com.
+   Warszawie przy ulicy Chełmżyńskiej 196/24. Możecie się ze mną skontaktować pod adresem email: kic4jec@gmail.com.
 
 2. Twoje dane osobowe będą przetwarzane wyłącznie w celu organizacji Warszawskiego
    Fursuitwalka 2024, na zasadach określonych tutaj oraz w regulaminie. W szczególności
