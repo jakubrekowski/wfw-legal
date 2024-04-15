@@ -1,3 +1,5 @@
+<img src="../src/wfw_logo_bot.png" width="256">
+
 ## Regulamin aplikacji WFW Events Management
 
 **Niniejszy Regulamin określa zasady korzystania z WFW EM uruchamianej z poziomu aplikacji Telegram ("WFW EM").**
