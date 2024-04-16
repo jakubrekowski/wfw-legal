@@ -5,7 +5,7 @@
 1. Warsaw FursuitWalk 2024”, zwane dalej “WFW 24”, jest wydarzeniem organizowanym przez osoby fizyczne (zwane dalej Organizatorami).
 2. WFW 24 nie jest imprezą masową w rozumieniu ustawy Dz.U.2019.0.2170 t.j. - Ustawa z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych.
 3. WFW 24 odbędzie się 1 czerwca 2024 o godzinie 11:00 na terenie Uniwersytetu Warszawskiego i Krakowskiego Przedmieścia w Warszawie.
-4. Udział w wydarzeniu jest dobrowolny i bezpłatny. Wzięcie udziału w WFW 24 jest równoznaczne z akceptacją postanowień niniejszego regulaminu oraz polityki prywatności <tu link do polityki>.
+4. Udział w wydarzeniu jest dobrowolny i bezpłatny. Wzięcie udziału w WFW 24 jest równoznaczne z akceptacją postanowień niniejszego regulaminu oraz polityki prywatności https://github.com/jakubrekowski/wfw-legal/blob/main/privacy.md.
 5. Uczestnicy mogą zakupić dobrowolne, płatne identyfikatory z wydarzenia za pośrednictwem aplikacji WFW EM dostępnej pod adresem: https://t.me/WarsawFursuitWalkBot/app. Identyfikatory mają wyłącznie formę pamiątkową i nie są wymagane do wzięcia udziału w wydarzeniu.
 6. Uczestnicy ponoszą za siebie pełną odpowiedzialność cywilno-prawną w trakcie trwania WFW
 7. przypadku osób niepełnoletnich, odpowiedzialność za taką osobę ponoszą ich opiekunowie prawni.
