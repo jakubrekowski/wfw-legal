@@ -1,0 +1,1 @@
+[Regulamin](../terms.md)
